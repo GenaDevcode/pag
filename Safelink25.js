@@ -5,11 +5,11 @@ function Login(){
     var password=document.login.password.value; 
     
     
-     if (usuario=="Genfans" && password=="user1547") { 
-    window.location="https://genfans.blogspot.com/2021/09/blog-post.html"; 
+     if (usuario=="Genfans" && password=="user1") { 
+    window.location="https://freeonlyfansde.blogspot.com/2021/09/log.html"; 
     } else if
-    (usuario=="Genfans895" && password=="Genfans78yt") { 
-    window.location="https://genfans.blogspot.com/2021/09/blog-post.html"; 
+    (usuario=="GenfansFree" && password=="12345") { 
+    window.location="https://freeonlyfansde.blogspot.com/2021/09/log.html"; 
     } 
       
       else {
