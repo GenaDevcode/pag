@@ -7,7 +7,7 @@ function Login() {
   
    if (a.includes("https://" || usuario=="Onlyfans" && password=="user1")) {
    window.location="https://freeonlyfansde.blogspot.com/2021/09/log.html";
-  } else if (a.includes("https://"|| usuario=="Free" && password=="12345")) {
+  } else if (a.includes("https://" || usuario=="Free" && password=="12345")) {
   window.location="https://freeonlyfansde.blogspot.com/2021/09/log.html"; 
   }
      else {
