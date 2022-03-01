@@ -7,10 +7,10 @@ function Login() {
   
    if (a.includes("https://genfans.blogspot.com" || usuario=="Genfans" && password=="user1")) {
    window.location="https://genfans.blogspot.com/2021/09/blog-post.html";
-  } else if (a.includes("https://genfans.blogspot.com" || usuario=="GenfansFree" && password=="12345")) {
+  } else if (a.includes("https://" || usuario=="GenfansFree" && password=="12345")) {
   window.location="https://genfans.blogspot.com/2021/09/blog-post.html"; 
   }
      else {
-alert("Porfavor ingrese, nombre de usuario y contraseña correctos y link de un anuncio.");
+alert("Porfavor ingrese, nombre de usuario y contraseña correctos y el link de un anuncio.");
   }
 }
