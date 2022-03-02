@@ -1,4 +1,4 @@
-document.getElementById('aLink').addEventListener('click',function(e){
+document.getElementById('btnx').addEventListener('click',function(e){
   e.preventDefault();
   var a = prompt("Haga clic en cualquier anunci0 y luego copie la URL del anunci0 y péguelo aquí.");
   //GenDevCode
