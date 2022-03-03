@@ -1,0 +1,4 @@
+.note{position:relative;padding:20px 30px 20px 50px;background-color:#e1f5fe;color:#01579b;font-size:.85rem;line-height:1.62em;border-radius:2px}
+.note:before{content:'\2605';position:absolute;left:18px;font-size:20px}
+.noteAlert{background-color:#ffdfdf;color:#e65151}
+.noteAlert:before{content:'\2691'}
