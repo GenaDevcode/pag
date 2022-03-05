@@ -8,7 +8,7 @@ $(document).ready(function (){
             alert("ingresaste un enlace equivocado");
       } else if(a.includes("https://")) {
         
-            document.getElementById('downloadf').disabled = false;
+              window.location = this.href
       
       }
         
