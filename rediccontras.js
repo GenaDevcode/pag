@@ -1,4 +1,4 @@
 function openad(){
-		window.open('https://comoentraraonlyfansgratis.blogspot.com');
+		window.open('https://youtu.be/waWUbLxxFqE');
 		
 	}
