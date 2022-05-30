@@ -1,4 +1,4 @@
-function Login() { 
+function Login(){ 
 var done=0; 
 var usuario=document.login.usuario.value; 
 var password=document.login.password.value; 
