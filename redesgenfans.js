@@ -12,7 +12,7 @@
 		//GRUPO DE FACEBOOK XXX
 	}
     function openad4(){
-		window.open('https://genfans.blogspot.com/');
+		window.open('https://youtube.com/channel/UCgSbBvE5Xl0gWbhmXz0g2lw');
 		//CANAL DE YT
 	}
     function openad5(){
